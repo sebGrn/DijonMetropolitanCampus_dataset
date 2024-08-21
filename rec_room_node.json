@@ -1,0 +1,32 @@
+{
+    "_id": {
+      "$oid": "66a24f26f167983fe74c0bb5"
+    },
+    "@id": "x0SsQipYihw3HPC6JSEqd",
+    "@metadata": {
+      "$model": "dtmi:org:w3id:rec:Room;1"
+    },
+    "@type": "Interface",
+    "displayName": {
+      "en": "00-39-N"
+    },
+    "@context": "dtmi:dtdl:context;2",
+    "extends": "dtmi:org:w3id:rec:Space;1",
+    "contents": [
+      {
+        "@type": "Relationship",
+        "$relationshipName": "hasPoint",
+        "$targetId": "/OnDijon_Center_01/x0SsQipYihw3HPC6JSEqd_OrPresence"
+      },
+      {
+        "@type": "Relationship",
+        "$relationshipName": "isPartOf",
+        "$targetId": "w0SsQipQKveSTKPFyMvtQ"
+      },
+      {
+        "@type": "Relationship",
+        "$relationshipName": "isPartOf",
+        "$targetId": "Q0SsQipxULBVwo3XVxNz6"
+      }
+    ]
+  }

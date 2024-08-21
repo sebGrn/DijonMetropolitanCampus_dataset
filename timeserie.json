@@ -1,0 +1,13 @@
+{
+    "_id": {
+      "$oid": "665bd4512b32ce25e88efb2e"
+    },
+    "timestamp": {
+      "$date": "2024-06-01T10:00:06.405Z"
+    },
+    "metadata": {
+      "metadata_id": "/OnDijon_Center_01/x0SsQipYihw3HPC6JSEqd_OrPresence"
+    },
+    "status": "{ok}",
+    "value": false
+  }

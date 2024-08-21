@@ -1,0 +1,28 @@
+{
+    "_id": {
+      "$oid": "66a24f26f167983fe74c0a7b"
+    },
+    "@id": "664175002b32ce25e8831793",
+    "@metadata": {
+      "$model": "dtmi:org:w3id:rec:BooleanValueObservation;1"
+    },
+    "@type": "Interface",
+    "displayName": {
+      "en": "Observation Event"
+    },
+    "@context": "dtmi:dtdl:context;2",
+    "extends": "dtmi:org:w3id:rec:ObservationEvent;1",
+    "maxMultiplicity": 1,
+    "lastKnownValue": {
+      "timestamp": "2024-06-01T10:00:06.405Z",
+      "value": false
+    },
+    "contents": [
+      {
+        "@type": "Relationship",
+        "$relationshipName": "sourcePoint",
+        "$targetId": "/OnDijon_Center_01/x0SsQipYihw3HPC6JSEqd_OrPresence"
+      }
+    ]
+  }
+  

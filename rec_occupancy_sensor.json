@@ -1,0 +1,15 @@
+{
+    "_id": {
+      "$oid": "66a24f26f167983fe74c0bb4"
+    },
+    "@id": "/OnDijon_Center_01/x0SsQipYihw3HPC6JSEqd_OrPresence",
+    "@metadata": {
+      "$model": "dtmi:org:brickschema:schema:Brick:Occupancy_Sensor;1"
+    },
+    "@type": "Interface",
+    "displayName": {
+      "en": "RDC - 00-39-N: OrPresence -  Synthesis"
+    },
+    "@context": "dtmi:dtdl:context;2",
+    "extends": "dtmi:org:brickschema:schema:Brick:Point;1"
+  }
