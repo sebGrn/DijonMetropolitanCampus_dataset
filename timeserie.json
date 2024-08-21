@@ -1,9 +1,52 @@
-{
+
+  {
     "_id": {
-      "$oid": "665bd4512b32ce25e88efb2e"
+      "$oid": "93a7d6b12c48fe43e22a8cd5"
     },
     "timestamp": {
-      "$date": "2024-06-01T10:00:06.405Z"
+      "$date": "2024-06-01T10:15:54"
+    },
+    "metadata": {
+      "metadata_id": "/OnDijon_Center_01/x0SsQipYihw3HPC6JSEqd_OrPresence"
+    },
+    "status": "{ok}",
+    "value": true
+  }
+
+  {
+    "_id": {
+      "$oid": "81cfb3a71965de34f55bf789"
+    },
+    "timestamp": {
+      "$date": "2024-06-01T10:25:12"
+    },
+    "metadata": {
+      "metadata_id": "/OnDijon_Center_01/x0SsQipYihw3HPC6JSEqd_OrPresence"
+    },
+    "status": "{ok}",
+    "value": false
+  }
+
+  {
+    "_id": {
+      "$oid": "17e3fc872b19ae67c33af248"
+    },
+    "timestamp": {
+      "$date": "2024-06-01T10:32:45"
+    },
+    "metadata": {
+      "metadata_id": "/OnDijon_Center_01/x0SsQipYihw3HPC6JSEqd_OrPresence"
+    },
+    "status": "{ok}",
+    "value": true
+  }
+
+  {
+    "_id": {
+      "$oid": "4b8fdc321e54cb92f77ef026"
+    },
+    "timestamp": {
+      "$date": "224-06-01T11:017:54"
     },
     "metadata": {
       "metadata_id": "/OnDijon_Center_01/x0SsQipYihw3HPC6JSEqd_OrPresence"

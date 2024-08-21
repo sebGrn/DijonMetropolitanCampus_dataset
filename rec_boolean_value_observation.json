@@ -1,8 +1,9 @@
-{
+  
+  {
     "_id": {
-      "$oid": "66a24f26f167983fe74c0a7b"
+      "$oid": "5f34d9b82a67cf12b44be675"
     },
-    "@id": "664175002b32ce25e8831793",
+    "@id": "93a7d6b12c48fe43e22a8cd5",
     "@metadata": {
       "$model": "dtmi:org:w3id:rec:BooleanValueObservation;1"
     },
@@ -14,8 +15,8 @@
     "extends": "dtmi:org:w3id:rec:ObservationEvent;1",
     "maxMultiplicity": 1,
     "lastKnownValue": {
-      "timestamp": "2024-06-01T10:00:06.405Z",
-      "value": false
+      "timestamp": "2024-06-01T10:15:54",
+      "value": true
     },
     "contents": [
       {
@@ -26,3 +27,30 @@
     ]
   }
   
+  {
+    "_id": {
+      "$oid": "76a8e3c24d91fa73e99cd842"
+    },
+    "@id": "4b8fdc321e54cb92f77ef026",
+    "@metadata": {
+      "$model": "dtmi:org:w3id:rec:BooleanValueObservation;1"
+    },
+    "@type": "Interface",
+    "displayName": {
+      "en": "Observation Event"
+    },
+    "@context": "dtmi:dtdl:context;2",
+    "extends": "dtmi:org:w3id:rec:ObservationEvent;1",
+    "maxMultiplicity": 1,
+    "lastKnownValue": {
+      "timestamp": "2024-06-01T11:17:54",
+      "value": false
+    },
+    "contents": [
+      {
+        "@type": "Relationship",
+        "$relationshipName": "sourcePoint",
+        "$targetId": "/OnDijon_Center_01/x0SsQipYihw3HPC6JSEqd_OrPresence"
+      }
+    ]
+  }
