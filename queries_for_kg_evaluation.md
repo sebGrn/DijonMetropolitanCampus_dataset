@@ -1,4 +1,4 @@
-# List of SPARQL queries to assess the Dijon Metropolitan Campus
+# List of CYPHER  queries to assess the Dijon Metropolitan Campus
 
 
 ## Spaces
